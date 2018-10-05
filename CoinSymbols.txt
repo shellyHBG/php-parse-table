@@ -1,4 +1,4 @@
-﻿int	string	int	
+﻿int	string	string	string	int	
 UID	Currency	Symbol	Name	Scale	
 1	CNY	¥	中國,人民幣	1	
 2	JPY	¥	日本,日元	1	
